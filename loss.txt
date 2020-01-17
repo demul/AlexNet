@@ -1,0 +1,301 @@
+
+epoch:       1  batch loss: 0.701687  time elapsed: 1761.112104
+test accuracy:    51.9
+train accuracy: 50.6369
+epoch:       2  batch loss: 0.674221  time elapsed: 3508.959966
+test accuracy:    65.2
+train accuracy: 58.4285
+epoch:       3  batch loss: 0.602303  time elapsed: 5255.919017
+test accuracy:    66.9
+train accuracy: 64.0048
+epoch:       4  batch loss: 0.523433  time elapsed: 7005.037321
+test accuracy:    72.3
+train accuracy: 69.3249
+epoch:       5  batch loss: 0.508697  time elapsed: 8753.746951
+test accuracy:    76.9
+train accuracy: 73.8787
+epoch:       6  batch loss: 0.460504  time elapsed: 10502.291489
+test accuracy:    78.5
+train accuracy: 76.5876
+epoch:       7  batch loss: 0.410659  time elapsed: 12250.426833
+test accuracy:    75.7
+train accuracy: 79.3458
+epoch:       8  batch loss: 0.364029  time elapsed: 13998.666571
+test accuracy:    80.9
+train accuracy: 81.3751
+epoch:       9  batch loss: 0.382829  time elapsed: 15748.699310
+test accuracy:    82.3
+train accuracy: 83.0598
+epoch:      10  batch loss: 0.339573  time elapsed: 17497.848449
+test accuracy:    82.1
+train accuracy: 85.2321
+epoch:      11  batch loss: 0.367399  time elapsed: 19254.597547
+test accuracy:      88
+train accuracy:  86.896
+epoch:      12  batch loss: 0.229970  time elapsed: 21003.657598
+test accuracy:    88.2
+train accuracy: 88.3542
+epoch:      13  batch loss: 0.206247  time elapsed: 22760.207875
+test accuracy:    90.4
+train accuracy: 89.6474
+epoch:      14  batch loss: 0.170092  time elapsed: 24513.453523
+test accuracy:    91.2
+train accuracy: 90.9201
+epoch:      15  batch loss: 0.192757  time elapsed: 26267.438700
+test accuracy:    91.7
+train accuracy: 91.4129
+epoch:      16  batch loss: 0.161303  time elapsed: 28022.761835
+test accuracy:    91.9
+train accuracy:  92.145
+epoch:      17  batch loss: 0.133843  time elapsed: 29776.447661
+test accuracy:    92.2
+train accuracy: 92.6928
+epoch:      18  batch loss: 0.223348  time elapsed: 31530.926770
+test accuracy:    92.8
+train accuracy: 93.3582
+epoch:      19  batch loss: 0.155169  time elapsed: 33284.446338
+test accuracy:    92.2
+train accuracy: 93.6771
+epoch:      20  batch loss: 0.111110  time elapsed: 35037.853247
+test accuracy:    94.4
+train accuracy: 94.0819
+epoch:      21  batch loss: 0.135813  time elapsed: 36792.559087
+test accuracy:    92.6
+train accuracy: 94.5968
+epoch:      22  batch loss: 0.096096  time elapsed: 38545.097397
+test accuracy:      94
+train accuracy: 94.7233
+epoch:      23  batch loss: 0.152340  time elapsed: 40297.066597
+test accuracy:    94.5
+train accuracy: 95.0394
+epoch:      24  batch loss: 0.116297  time elapsed: 42051.137615
+test accuracy:    94.5
+train accuracy: 95.4743
+epoch:      25  batch loss: 0.136865  time elapsed: 43804.803462
+test accuracy:    94.6
+train accuracy: 95.4153
+epoch:      26  batch loss: 0.084382  time elapsed: 45558.672282
+test accuracy:    95.5
+train accuracy: 95.8984
+epoch:      27  batch loss: 0.097023  time elapsed: 47313.463891
+test accuracy:    95.4
+train accuracy: 96.1566
+epoch:      28  batch loss: 0.091855  time elapsed: 49068.790758
+test accuracy:    94.8
+train accuracy: 96.5414
+epoch:      29  batch loss: 0.156311  time elapsed: 50823.027734
+test accuracy:    94.9
+train accuracy: 96.3996
+epoch:      30  batch loss: 0.110275  time elapsed: 52577.375759
+test accuracy:    95.1
+train accuracy: 96.9831
+epoch:      31  batch loss: 0.070935  time elapsed: 54330.585802
+test accuracy:    96.1
+train accuracy:  96.798[learning rate reducing]
+epoch:      32  batch loss: 0.041687  time elapsed: 56089.259623
+test accuracy:    96.4
+train accuracy: 98.3414
+epoch:      33  batch loss: 0.034146  time elapsed: 57842.244561
+test accuracy:    96.6
+train accuracy: 98.4739
+epoch:      34  batch loss: 0.038663  time elapsed: 59595.136310
+test accuracy:    96.5
+train accuracy: 98.5827
+epoch:      35  batch loss: 0.027804  time elapsed: 61347.455312
+test accuracy:    96.7
+train accuracy: 98.6361
+epoch:      36  batch loss: 0.037071  time elapsed: 63100.347281
+test accuracy:    96.8
+train accuracy: 98.6526
+epoch:      37  batch loss: 0.038390  time elapsed: 64853.636170
+test accuracy:    96.7
+train accuracy: 98.7245
+epoch:      38  batch loss: 0.023604  time elapsed: 66605.799653
+test accuracy:    96.4
+train accuracy: 98.7823
+epoch:      39  batch loss: 0.037857  time elapsed: 68359.466833
+test accuracy:    96.6
+train accuracy: 98.7908
+epoch:      40  batch loss: 0.034106  time elapsed: 70112.798487
+test accuracy:    96.5
+train accuracy: 98.8145
+epoch:      41  batch loss: 0.045016  time elapsed: 71865.950077
+test accuracy:    96.8
+train accuracy: 98.8518[learning rate reducing]
+epoch:      42  batch loss: 0.026218  time elapsed: 73624.672335
+test accuracy:    96.7
+train accuracy: 99.0016
+epoch:      43  batch loss: 0.014644  time elapsed: 75384.639839
+test accuracy:    96.9
+train accuracy: 99.0341
+epoch:      44  batch loss: 0.043794  time elapsed: 77169.122474
+test accuracy:    96.9
+train accuracy: 99.0261
+epoch:      45  batch loss: 0.013909  time elapsed: 78984.854135
+test accuracy:    96.9
+train accuracy: 99.0321
+epoch:      46  batch loss: 0.026739  time elapsed: 80767.143944
+test accuracy:      97
+train accuracy: 99.0281
+epoch:      47  batch loss: 0.035992  time elapsed: 82570.077545
+test accuracy:    96.9
+train accuracy: 99.0337
+epoch:      48  batch loss: 0.025975  time elapsed: 84333.490534
+test accuracy:    96.9
+train accuracy: 99.0317
+epoch:      49  batch loss: 0.021709  time elapsed: 86092.431066
+test accuracy:    97.1
+train accuracy: 99.0606
+epoch:      50  batch loss: 0.023629  time elapsed: 87852.743762
+test accuracy:      97
+train accuracy: 99.0462
+epoch:      51  batch loss: 0.028095  time elapsed: 89614.159557
+test accuracy:    96.8
+train accuracy:  99.045[learning rate reducing]
+epoch:      52  batch loss: 0.016921  time elapsed: 91373.564606
+test accuracy:    96.8
+train accuracy: 99.0353
+epoch:      53  batch loss: 0.033656  time elapsed: 93133.629073
+test accuracy:    96.8
+train accuracy: 99.0819
+epoch:      54  batch loss: 0.023618  time elapsed: 94892.175159
+test accuracy:    96.9
+train accuracy: 99.0643
+epoch:      55  batch loss: 0.036908  time elapsed: 96650.440824
+test accuracy:      97
+train accuracy: 99.0542
+epoch:      56  batch loss: 0.016808  time elapsed: 98411.038031
+test accuracy:    96.9
+train accuracy:  99.047
+epoch:      57  batch loss: 0.021446  time elapsed: 100170.649910
+test accuracy:    96.9
+train accuracy: 99.0478
+epoch:      58  batch loss: 0.013887  time elapsed: 101930.688948
+test accuracy:      97
+train accuracy: 99.0843
+epoch:      59  batch loss: 0.030972  time elapsed: 103690.315654
+test accuracy:      97
+train accuracy: 99.0602
+epoch:      60  batch loss: 0.036236  time elapsed: 105450.571774
+test accuracy:      97
+train accuracy: 99.0631
+epoch:      61  batch loss: 0.031694  time elapsed: 107211.911572
+test accuracy:    96.9
+train accuracy: 99.0663[learning rate reducing]
+epoch:      62  batch loss: 0.029717  time elapsed: 108972.831996
+test accuracy:    96.9
+train accuracy: 99.0558
+epoch:      63  batch loss: 0.026868  time elapsed: 110732.946741
+test accuracy:      97
+train accuracy: 99.0651
+epoch:      64  batch loss: 0.016982  time elapsed: 112492.965198
+test accuracy:      97
+train accuracy: 99.0586
+epoch:      65  batch loss: 0.024781  time elapsed: 114252.310226
+test accuracy:      97
+train accuracy: 99.0723
+epoch:      66  batch loss: 0.035990  time elapsed: 116012.398208
+test accuracy:      97
+train accuracy: 99.0799
+epoch:      67  batch loss: 0.019309  time elapsed: 117773.387680
+test accuracy:      97
+train accuracy: 99.0353
+epoch:      68  batch loss: 0.016283  time elapsed: 119536.341812
+test accuracy:      97
+train accuracy: 99.0735
+epoch:      69  batch loss: 0.025726  time elapsed: 121296.567203
+test accuracy:      97
+train accuracy: 99.0703
+epoch:      70  batch loss: 0.026078  time elapsed: 123056.234867
+test accuracy:      97
+train accuracy: 99.0815
+epoch:      71  batch loss: 0.033864  time elapsed: 124816.647982
+test accuracy:      97
+train accuracy: 99.0751[learning rate reducing]
+epoch:      72  batch loss: 0.018606  time elapsed: 126576.772657
+test accuracy:      97
+train accuracy: 99.0707
+epoch:      73  batch loss: 0.022153  time elapsed: 128336.001112
+test accuracy:      97
+train accuracy: 99.0643
+epoch:      74  batch loss: 0.018072  time elapsed: 130095.055326
+test accuracy:      97
+train accuracy: 99.0831
+epoch:      75  batch loss: 0.055560  time elapsed: 131855.424428
+test accuracy:      97
+train accuracy: 99.0691
+epoch:      76  batch loss: 0.023717  time elapsed: 133615.784819
+test accuracy:      97
+train accuracy: 99.0618
+epoch:      77  batch loss: 0.017222  time elapsed: 135376.583827
+test accuracy:      97
+train accuracy: 99.0739
+epoch:      78  batch loss: 0.011717  time elapsed: 137135.422230
+test accuracy:      97
+train accuracy: 99.0855
+epoch:      79  batch loss: 0.026892  time elapsed: 138895.907127
+test accuracy:      97
+train accuracy:  99.055
+epoch:      80  batch loss: 0.023058  time elapsed: 140657.058407
+test accuracy:      97
+train accuracy: 99.0779
+epoch:      81  batch loss: 0.051522  time elapsed: 142417.618644
+test accuracy:      97
+train accuracy: 99.0735[learning rate reducing]
+epoch:      82  batch loss: 0.014593  time elapsed: 144178.692983
+test accuracy:      97
+train accuracy: 99.0771
+epoch:      83  batch loss: 0.022193  time elapsed: 145952.140550
+test accuracy:      97
+train accuracy: 99.0643
+epoch:      84  batch loss: 0.023914  time elapsed: 147752.779405
+test accuracy:      97
+train accuracy: 99.0723
+epoch:      85  batch loss: 0.021017  time elapsed: 149563.795029
+test accuracy:      97
+train accuracy: 99.0538
+epoch:      86  batch loss: 0.021292  time elapsed: 151356.695508
+test accuracy:      97
+train accuracy: 99.0759
+epoch:      87  batch loss: 0.042260  time elapsed: 153175.193494
+test accuracy:      97
+train accuracy: 99.0823
+epoch:      88  batch loss: 0.029803  time elapsed: 154980.383976
+test accuracy:      97
+train accuracy: 99.0502
+epoch:      89  batch loss: 0.031436  time elapsed: 156767.040112
+test accuracy:      97
+train accuracy: 99.0819
+epoch:      90  batch loss: 0.025801  time elapsed: 158523.912950
+test accuracy:      97
+train accuracy: 99.0655
+epoch:      91  batch loss: 0.032812  time elapsed: 160342.183090
+test accuracy:      97
+train accuracy: 99.0691[learning rate reducing]
+epoch:      92  batch loss: 0.022372  time elapsed: 162171.714697
+test accuracy:      97
+train accuracy: 99.0514
+epoch:      93  batch loss: 0.016805  time elapsed: 163965.264219
+test accuracy:      97
+train accuracy:  99.059
+epoch:      94  batch loss: 0.025409  time elapsed: 165781.389733
+test accuracy:      97
+train accuracy: 99.0522
+epoch:      95  batch loss: 0.030877  time elapsed: 167544.048733
+test accuracy:      97
+train accuracy: 99.0759
+epoch:      96  batch loss: 0.018172  time elapsed: 169304.772363
+test accuracy:      97
+train accuracy: 99.0707
+epoch:      97  batch loss: 0.024744  time elapsed: 171065.489325
+test accuracy:      97
+train accuracy:  99.055
+epoch:      98  batch loss: 0.032696  time elapsed: 172835.161319
+test accuracy:      97
+train accuracy: 99.0659
+epoch:      99  batch loss: 0.028968  time elapsed: 174681.324818
+test accuracy:      97
+train accuracy: 99.0747
+epoch:     100  batch loss: 0.044084  time elapsed: 176491.910302
+test accuracy:      97
+train accuracy: 99.0655
