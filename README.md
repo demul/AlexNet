@@ -1,5 +1,5 @@
 ##### AlexNet
-Implementation of AlexNet for Identifying that The first convolutional kernel's patterns are really bisected caused by it's parallel architecture
+Implementation of AlexNet for Identifying that Wether first convolutional kernel's patterns are really bisected caused by it's parallel architecture
 
 # 1.Intro
 ![img](./images/img.jpg)
