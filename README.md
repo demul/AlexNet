@@ -113,4 +113,6 @@ Relu activation, Local Response Normalization, Overlapping pooling, Dropout, Wei
 
 
 **100-epoch checkpoint file link**
+
+
 [https://drive.google.com/drive/folders/1f-EFtzLIy4AJf12JY9EVWOlWoAQ3NXrM]
