@@ -7,10 +7,12 @@ import cv2
 ######################## look 'Dataloader.color_augment()'    ##########################################################
 class DataLoader:
     def __init__(self, validation_len=1000):
-        train_dir = '/kaggle/input/data_preprocessed/train'
-        #test_dir = '/kaggle/input/data_raw/test1'
+        train_dir = 'C:/kaggle/input/data_preprocessed/train'
+        #test_dir = 'C:/kaggle/input/data_raw/test1'
 
         self.train_path_list = [os.path.join(train_dir, x) for x in os.listdir(train_dir)] # 250000
+        np.random.shuffle(self.train_path_list)
+
         self.val_path_list = self.train_path_list[-validation_len:] # 10000
         self.train_path_list = self.train_path_list[:-validation_len] # 240000
         #self.test_path_list = [os.path.join(test_dir, x) for x in os.listdir(test_dir)]

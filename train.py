@@ -61,16 +61,13 @@ class AlexNet:
             Y = tf.placeholder(shape=[None, 2], dtype=tf.float32)
             keep_prob = tf.placeholder(dtype=tf.float32)
             learning_rate = tf.placeholder(dtype=tf.float32)
-
             train_op, prediction_, loss_ = self.make_graph(X, Y, keep_prob, learning_rate)
             correct_prediction = tf.equal(prediction_, tf.argmax(Y, axis=1))
             accuracy = tf.reduce_mean(tf.cast(correct_prediction, tf.float32))
 
-
             config = tf.ConfigProto()
             config.gpu_options.allow_growth = True
             sess = tf.Session(config=config)
-
 
             saver = tf.train.Saver(tf.global_variables())
             ckpt = tf.train.get_checkpoint_state('./model')

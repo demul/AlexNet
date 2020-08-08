@@ -8,8 +8,8 @@ import zipfile
 ######################## look 'Dataloader.color_augment()' in 'data_loader.py' ############################
 class DataPreprocessor:
     def __init__(self):
-        output_path = '/kaggle/input/data_preprocessed'
-        input_path = '/kaggle/input/data_raw'
+        output_path = 'C:/kaggle/input/data_preprocessed'
+        input_path = 'C:/kaggle/input/data_raw'
 
         self.output_dir_train = os.path.join(output_path, 'train')
         self.input_dir_train = os.path.join(input_path, 'train')
@@ -17,8 +17,8 @@ class DataPreprocessor:
         if not(os.path.exists(input_path)):
             print("[unzip data]")
             os.mkdir(input_path)
-            train_zip = zipfile.ZipFile('/kaggle/input/dogs-vs-cats/train.zip')
-            test_zip = zipfile.ZipFile('/kaggle/input/dogs-vs-cats/test1.zip')
+            train_zip = zipfile.ZipFile('C:/kaggle/input/dogs-vs-cats/train.zip')
+            test_zip = zipfile.ZipFile('C:/kaggle/input/dogs-vs-cats/test1.zip')
             train_zip.extractall(input_path)
             test_zip.extractall(input_path)
 
